@@ -1,0 +1,10 @@
+3/6/2024 12:56:15 PM	This log contains information about the import schema operation into project 'devopsdb' on computer 'VM001' by user 'venkatesh b'.
+3/6/2024 12:56:15 PM	Deserializing model
+3/6/2024 12:56:15 PM	Resolving model
+3/6/2024 12:56:15 PM	Visiting imported model for types
+3/6/2024 12:56:16 PM	Scanning project for duplicate elements
+3/6/2024 12:56:16 PM	Finished duplicate element processing
+3/6/2024 12:56:16 PM	Processing extra files
+3/6/2024 12:56:16 PM	Finished importing Data-tier Application file.
+3/6/2024 12:56:16 PM	A summary of the import was saved to the following location: C:\Users\venkatesh b\Source\Repos\devopsdb\Import Schema Logs\devopsdb_20240306125615.log
+3/6/2024 12:56:16 PM	Click Finish to continue...
